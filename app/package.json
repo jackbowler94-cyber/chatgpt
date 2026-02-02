@@ -1,0 +1,12 @@
+{
+  "name": "daily-task-keeper",
+  "version": "0.1.0",
+  "description": "Desktop app for daily task rollover",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
